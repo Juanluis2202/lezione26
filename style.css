@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-  
+    list-style-type: none;
     box-sizing: border-box;
     font-family: "Ubuntu", sans-serif;
   }
@@ -167,6 +167,15 @@
     font-weight: 300;
     line-height: 27.58px;
     color: #ffffff;
+  }
+  .links ul li a {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 24px;
+    text-decoration: none;
+    text-transform: none;
+    padding: 0%;
+    margin: 0%;
   }
   /* ______________________________________________________________________________________________ */
   .room-rates {
